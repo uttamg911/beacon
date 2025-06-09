@@ -1,0 +1,16 @@
+- !<AssetImportMetadata/610132ae-ee46-4b7e-b9d2-2a705b3d6308>
+  ImportedAssetIds:
+    TextInputModule: !<reference> 8d97696a-e887-4e35-b5b8-425bf77c5e60
+  ImporterName: TextInputModuleImporter
+  PrimaryAsset: !<reference> 8d97696a-e887-4e35-b5b8-425bf77c5e60
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
