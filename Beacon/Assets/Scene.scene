@@ -4500,7 +4500,7 @@
   Enabled: true
   Layers: 1
   LocalTransform:
-    position: {x: -19.615473, y: 41.934547, z: 8.739998}
+    position: {x: -13.507843, y: 41.934547, z: 8.739998}
     rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
     scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     hasSegmentScaleCompensation: false
@@ -10857,7 +10857,7 @@
   Enabled: true
   Layers: 1
   LocalTransform:
-    position: {x: -19.694307, y: 41.934544, z: 7.660934}
+    position: {x: -13.586678, y: 41.934544, z: 7.660934}
     rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
     scale: {x: 3.200000, y: 5.000000, z: 5.000000}
     hasSegmentScaleCompensation: false
@@ -11288,7 +11288,7 @@
   Enabled: true
   Layers: 1
   LocalTransform:
-    position: {x: 9.169440, y: 41.934544, z: 7.660934}
+    position: {x: 15.277071, y: 41.934544, z: 7.660934}
     rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
     scale: {x: 3.922197, y: 5.000000, z: 5.000000}
     hasSegmentScaleCompensation: false
@@ -18895,7 +18895,7 @@
   Enabled: true
   Layers: 1
   LocalTransform:
-    position: {x: -26.008865, y: 28.705858, z: 8.739998}
+    position: {x: -19.901236, y: 28.705858, z: 8.739998}
     rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
     scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     hasSegmentScaleCompensation: false
@@ -22314,7 +22314,7 @@
   ShowEditingPreview: true
   TouchHandler: !<reference> 00000000-0000-0000-0000-000000000000
   SizeToFit: false
-  FontSize: 400
+  FontSize: 300
   Font: !<reference> 00000000-0000-0000-0000-000000000000
   LayoutRect:
     left: -7.500000
@@ -24033,7 +24033,7 @@
   Enabled: true
   Layers: 1
   LocalTransform:
-    position: {x: -0.133925, y: 28.519802, z: 7.660934}
+    position: {x: 5.973706, y: 28.519802, z: 7.660934}
     rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
     scale: {x: 5.000000, y: 5.000000, z: 5.000000}
     hasSegmentScaleCompensation: false
@@ -24179,7 +24179,7 @@
   Enabled: true
   Layers: 1
   LocalTransform:
-    position: {x: 9.851993, y: 41.934547, z: 8.739998}
+    position: {x: 15.959623, y: 41.934547, z: 8.739998}
     rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
     scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     hasSegmentScaleCompensation: false
@@ -24737,7 +24737,7 @@
   Enabled: true
   Layers: 1
   LocalTransform:
-    position: {x: -0.302852, y: 28.580109, z: 8.739998}
+    position: {x: 5.804779, y: 28.580109, z: 8.739998}
     rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
     scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     hasSegmentScaleCompensation: false
