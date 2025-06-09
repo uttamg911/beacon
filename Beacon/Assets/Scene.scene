@@ -21224,7 +21224,7 @@
   Name: Head Binding
   Enabled: true
   AttachmentPointType: HeadCenter
-  FaceIndex: 0
+  FaceIndex: 1
   AttachedBarycentricVertex:
     indices:
       - 0
