@@ -27,15 +27,24 @@
   MaxVisibility: Editable
   ScriptInputsHidden:
     bubbleAnimationControllerInput: false
+    textComponent1: false
+    textComponent2: false
+    textComponent3: false
   ScriptTypesHidden:
     {}
   DefaultScriptInputs:
     - bubbleAnimationControllerInput: !<MappingBased.AssignableType> 00000000-0000-0000-0000-000000000000
+      textComponent1: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      textComponent2: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      textComponent3: !<reference.Text> 00000000-0000-0000-0000-000000000000
   ScriptTypes:
     -
       {}
   InputLines:
     - // @input AssignableType bubbleAnimationControllerInput
+    - // @input Component.Text textComponent1
+    - // @input Component.Text textComponent2
+    - // @input Component.Text textComponent3
   SetupScript:
     code: ""
   ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
