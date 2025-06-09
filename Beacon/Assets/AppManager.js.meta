@@ -30,6 +30,10 @@
   ScriptInputsHidden:
     screens: false
     startScreenIndex: false
+    textSource1: false
+    textSource2: false
+    textTarget1: false
+    textTarget2: false
   ScriptTypesHidden:
     {}
   ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
@@ -38,6 +42,10 @@
     - screens: !<reference.SceneObject[]>
         []
       startScreenIndex: 0
+      textSource1: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      textTarget1: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      textSource2: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      textTarget2: !<reference.Text> 00000000-0000-0000-0000-000000000000
   ScriptTypes:
     -
       {}
